@@ -20,3 +20,4 @@ I honestly had a harder time with retrieivng the starter code and then setting u
 I did enjoy making the changes and leaving the code much better than I found it. I always enjoy using logic and bringing order to disorganization. 
 I hope on my future challenges in the bootcamp, I will be much more simple to turn in as I have learned proper practices. 
 
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/109236891/182905443-85964cd7-f58c-4c31-87c3-07c769344d79.png)
