@@ -13,3 +13,5 @@ To ensure that the heading attributes were in sequential order, I changed the fo
 My last actions involved the CSS. There were unnecessary classes. I went through each one and made sure that there was only one for each set of commands for the styling. Then I made the necessary changes in the HTML. I was able to delete about half of the CSS without chnanging the style of the website. 
 
 ###Attached is a screenshot:
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/109236891/182888971-0d12922f-f0fa-445a-b6cc-49f1d1018ba9.png)
+
