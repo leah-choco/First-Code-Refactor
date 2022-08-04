@@ -11,4 +11,4 @@
 
 //The Acceptance Criteria mentioned something about making sure that the heading attributes are in sequential order. My main try to achieve that was to change the footer to h4 rather than h2... As the section above it was h3. Then I made the necessary change in CSS.
 
-//For the CSS consolidation, I began by looking for classes that were unnecessary. In the "main" tag I noticed 3 CSS classes, that all actually did the same thing. So I deleted 2 of them and went to make sure that my HTML reflected all of them having the same CSS class of "search-engine-optimization". I continued this trend through the "section" tag as well. 
+//For the CSS consolidation, I began by looking for classes that were unnecessary. In the "main" tag I noticed 3 CSS classes, that all actually did the same thing. So I deleted 2 of them and went to make sure that my HTML reflected all of them having the same CSS class of "search-engine-optimization". I continued this trend through the "section" tag as well. # First-Code-Refactor
